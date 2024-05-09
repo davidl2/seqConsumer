@@ -11,3 +11,5 @@ svn-commit.tmp
 
 ## Mac-specific file
 .DS_Store
+
+.gradle
